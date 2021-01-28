@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/ic_restaurant_black_24dp"
+            android:title="Menu"
+            />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="Cart" />
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:title="Order History" />
+
+        <item
+            android:id="@+id/nac_wallet"
+            android:icon="@drawable/ic_wallet"
+            android:title="Wallet" />
+
+
+        <item
+            android:id="@+id/nav_chpass"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="Change Password" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="Online Ordering Help" />
+
+        <item
+            android:id="@+id/nav_gift"
+            android:icon="@drawable/ic_card_giftcard_black_24dp"
+            android:title="Redeem Gift Code" />
+
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/ic_web_black_24dp"
+            android:title="Our Website" />
+
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Sign out" />
+    </group>
+</menu>

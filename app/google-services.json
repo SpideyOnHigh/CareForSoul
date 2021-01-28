@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "687381721665",
+    "firebase_url": "https://careforsoul-9ee76-default-rtdb.firebaseio.com",
+    "project_id": "careforsoul-9ee76",
+    "storage_bucket": "careforsoul-9ee76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687381721665:android:6872f9df501fe0e3268cc0",
+        "android_client_info": {
+          "package_name": "com.ac.careforsoul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687381721665-20jljvc22lv3sf5ggcr44skhgmb88mcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ac.careforsoul",
+            "certificate_hash": "bd4d5379c441a40a26270570222c6b24d2e500a5"
+          }
+        },
+        {
+          "client_id": "687381721665-8gq79nv34ctv0o8777d43ib8snjar66k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxcbjwqythdXzes_kB9p2BH1cl5crQOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687381721665-8gq79nv34ctv0o8777d43ib8snjar66k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
